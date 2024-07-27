@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "edcd019089385f9d",
+    "type": "split",
+    "children": [
+      {
+        "id": "00fc552ca84657e6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5099701c08b05301",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data Structures and Algorithms (Beginers)/Algorithms/Recursion/Two Branch Recursion.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "622bf2c56a4868e9",
+    "type": "split",
+    "children": [
+      {
+        "id": "464addf3f2477285",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "133b697d6fd9e59c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3c46ef402134fb70",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7025f55a1b6106c6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "7a3532db46d549c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "bbf87e15d3f7a155",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "69a414bf2fad95dc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Data Structures and Algorithms (Beginers)/Algorithms/Recursion/Two Branch Recursion.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2c5bdf381db58683",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Data Structures and Algorithms (Beginers)/Algorithms/Recursion/Two Branch Recursion.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5b5e166315b05515",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3310f531df4c279c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Data Structures and Algorithms (Beginers)/Algorithms/Recursion/Two Branch Recursion.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "cicada-sync:CI-SYNC": false
+    }
+  },
+  "active": "5099701c08b05301",
+  "lastOpenFiles": [
+    "Data Structures and Algorithms (Beginers)/Algorithms/Recursion/One Branch Recursion.md",
+    "Data Structures and Algorithms (Beginners)/Data Structures/1. Arrays/1. Static Arrays.md",
+    "Data Structures and Algorithms (Beginers)/Data Structures/3. Trees/5.  Breadth First Search.md",
+    "Data Structures and Algorithms (Beginers)/Data Structures/3. Trees/4.  Depth First Search (DFS).md",
+    "Data Structures and Algorithms (Beginers)/Data Structures/3. Trees/3. Binary Search Tree - Remove.md",
+    "Data Structures and Algorithms (Beginers)/Data Structures/3. Trees/2. Binary Search Tree - Insert.md",
+    "Data Structures and Algorithms (Beginers)/Data Structures/3. Trees/1. Binary Trees and Binary Search Trees.md",
+    "Data Structures and Algorithms (Beginers)/Data Structures/2. Linked Lists/3. Queues.md",
+    "Data Structures and Algorithms (Beginers)/Data Structures/2. Linked Lists/2. Doubly Linked Lists.md",
+    "Data Structures and Algorithms (Beginers)/Data Structures/2. Linked Lists/1. Singly Linked Lists.md",
+    "Data Structures and Algorithms (Beginers)/Data Structures/1. Arrays/3. Stacks.md",
+    "Data Structures and Algorithms (Beginers)/Data Structures/1. Arrays/2. Dynamic Arrays.md",
+    "Data Structures and Algorithms (Beginers)/Data Structures/1. Arrays/1. Static Arrays.md",
+    "Data Structures and Algorithms (Beginers)/Algorithms/Sorting/Quick Sort.md",
+    "Data Structures and Algorithms (Beginers)/Algorithms/Sorting/Merge Sort.md",
+    "Data Structures and Algorithms (Beginers)/Algorithms/Sorting/Insertion Sort.md",
+    "Data Structures and Algorithms (Beginers)/Algorithms/Recursion/Two Branch Recursion.md",
+    "Data Structures and Algorithms (Beginers)/Algorithms/Backtracking/Backtracking.md",
+    "Data Structures and Algorithms (Beginers)/Images/Screenshot 2024-07-07 at 4.41.35 PM.png",
+    "Data Structures and Algorithms (Beginers)/Images/Screenshot 2024-06-15 at 2.30.40 PM.png",
+    "Data Structures and Algorithms (Beginers)/Images/Screenshot 2024-06-14 at 3.05.21 PM.png",
+    "Data Structures and Algorithms (Beginers)/Images/Screenshot 2024-06-14 at 3.05.21 PM 1.png",
+    "Data Structures and Algorithms (Beginers)/Images/Pasted image 20240720083618.png",
+    "Data Structures and Algorithms (Beginers)/Images/Pasted image 20240720082417.png",
+    "Data Structures and Algorithms (Beginers)/Images/Pasted image 20240708160128.png",
+    "Data Structures and Algorithms (Beginers)/Images/Pasted image 20240708130606.png",
+    "Data Structures and Algorithms (Beginers)/Images/Pasted image 20240708125738.png",
+    "Data Structures and Algorithms (Beginers)/Images/Pasted image 20240708122936.png",
+    "Data Structures and Algorithms (Beginers)/Example Problems/Static arrays (Python).md",
+    "Data Structures and Algorithms (Beginers)/Example Problems/Stacks (Python).md",
+    "Data Structures and Algorithms (Beginers)/Example Problems/Singly Linked Lists (Python).md",
+    "Data Structures and Algorithms (Beginers)/Example Problems/QuickSort (Python).md",
+    "Data Structures and Algorithms (Beginers)/Example Problems/Queues (python).md",
+    "Data Structures and Algorithms (Beginers)/Example Problems/Merger Sort (Python).md",
+    "Data Structures and Algorithms (Beginers)/Example Problems/Insertion Sort (Python).md",
+    "Data Structures and Algorithms (Beginers)/Example Problems/Fibonacci (Python).md",
+    "Data Structures and Algorithms (Beginers)/Data Structures/3. Trees",
+    "Data Structures and Algorithms (Beginers)/Data Structures/2. Linked Lists",
+    "Data Structures and Algorithms (Beginers)/Data Structures/1. Arrays",
+    "Data Structures and Algorithms (Beginers)/Algorithms/Sorting",
+    "Data Structures and Algorithms (Beginers)/Algorithms/Recursion",
+    "Data Structures and Algorithms (Beginers)/Algorithms/Backtracking",
+    "Data Structures and Algorithms (Beginers)/Images",
+    "Data Structures and Algorithms (Beginers)/Example Problems",
+    "Data Structures and Algorithms (Beginers)/Data Structures",
+    "Data Structures and Algorithms (Beginers)/Algorithms",
+    "Untitled.canvas"
+  ]
+}
