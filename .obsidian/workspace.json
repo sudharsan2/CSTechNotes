@@ -11,12 +11,8 @@
             "id": "5099701c08b05301",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data Structures and Algorithms (Beginers)/Algorithms/Recursion/Two Branch Recursion.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Structures and Algorithms (Beginers)/Algorithms/Recursion/Two Branch Recursion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Structures and Algorithms (Beginers)/Algorithms/Recursion/Two Branch Recursion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Data Structures and Algorithms (Beginers)/Algorithms/Recursion/Two Branch Recursion.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -150,52 +142,52 @@
   },
   "active": "5099701c08b05301",
   "lastOpenFiles": [
-    "Data Structures and Algorithms (Beginers)/Algorithms/Recursion/One Branch Recursion.md",
-    "Data Structures and Algorithms (Beginners)/Data Structures/1. Arrays/1. Static Arrays.md",
-    "Data Structures and Algorithms (Beginers)/Data Structures/3. Trees/5.  Breadth First Search.md",
-    "Data Structures and Algorithms (Beginers)/Data Structures/3. Trees/4.  Depth First Search (DFS).md",
-    "Data Structures and Algorithms (Beginers)/Data Structures/3. Trees/3. Binary Search Tree - Remove.md",
-    "Data Structures and Algorithms (Beginers)/Data Structures/3. Trees/2. Binary Search Tree - Insert.md",
-    "Data Structures and Algorithms (Beginers)/Data Structures/3. Trees/1. Binary Trees and Binary Search Trees.md",
-    "Data Structures and Algorithms (Beginers)/Data Structures/2. Linked Lists/3. Queues.md",
-    "Data Structures and Algorithms (Beginers)/Data Structures/2. Linked Lists/2. Doubly Linked Lists.md",
-    "Data Structures and Algorithms (Beginers)/Data Structures/2. Linked Lists/1. Singly Linked Lists.md",
-    "Data Structures and Algorithms (Beginers)/Data Structures/1. Arrays/3. Stacks.md",
-    "Data Structures and Algorithms (Beginers)/Data Structures/1. Arrays/2. Dynamic Arrays.md",
-    "Data Structures and Algorithms (Beginers)/Data Structures/1. Arrays/1. Static Arrays.md",
-    "Data Structures and Algorithms (Beginers)/Algorithms/Sorting/Quick Sort.md",
-    "Data Structures and Algorithms (Beginers)/Algorithms/Sorting/Merge Sort.md",
-    "Data Structures and Algorithms (Beginers)/Algorithms/Sorting/Insertion Sort.md",
+    "SriHari",
+    "untitled folder",
     "Data Structures and Algorithms (Beginers)/Algorithms/Recursion/Two Branch Recursion.md",
-    "Data Structures and Algorithms (Beginers)/Algorithms/Backtracking/Backtracking.md",
-    "Data Structures and Algorithms (Beginers)/Images/Screenshot 2024-07-07 at 4.41.35 PM.png",
-    "Data Structures and Algorithms (Beginers)/Images/Screenshot 2024-06-15 at 2.30.40 PM.png",
-    "Data Structures and Algorithms (Beginers)/Images/Screenshot 2024-06-14 at 3.05.21 PM.png",
-    "Data Structures and Algorithms (Beginers)/Images/Screenshot 2024-06-14 at 3.05.21 PM 1.png",
-    "Data Structures and Algorithms (Beginers)/Images/Pasted image 20240720083618.png",
-    "Data Structures and Algorithms (Beginers)/Images/Pasted image 20240720082417.png",
-    "Data Structures and Algorithms (Beginers)/Images/Pasted image 20240708160128.png",
-    "Data Structures and Algorithms (Beginers)/Images/Pasted image 20240708130606.png",
-    "Data Structures and Algorithms (Beginers)/Images/Pasted image 20240708125738.png",
-    "Data Structures and Algorithms (Beginers)/Images/Pasted image 20240708122936.png",
-    "Data Structures and Algorithms (Beginers)/Example Problems/Static arrays (Python).md",
-    "Data Structures and Algorithms (Beginers)/Example Problems/Stacks (Python).md",
-    "Data Structures and Algorithms (Beginers)/Example Problems/Singly Linked Lists (Python).md",
-    "Data Structures and Algorithms (Beginers)/Example Problems/QuickSort (Python).md",
-    "Data Structures and Algorithms (Beginers)/Example Problems/Queues (python).md",
-    "Data Structures and Algorithms (Beginers)/Example Problems/Merger Sort (Python).md",
-    "Data Structures and Algorithms (Beginers)/Example Problems/Insertion Sort (Python).md",
-    "Data Structures and Algorithms (Beginers)/Example Problems/Fibonacci (Python).md",
-    "Data Structures and Algorithms (Beginers)/Data Structures/3. Trees",
-    "Data Structures and Algorithms (Beginers)/Data Structures/2. Linked Lists",
-    "Data Structures and Algorithms (Beginers)/Data Structures/1. Arrays",
-    "Data Structures and Algorithms (Beginers)/Algorithms/Sorting",
-    "Data Structures and Algorithms (Beginers)/Algorithms/Recursion",
-    "Data Structures and Algorithms (Beginers)/Algorithms/Backtracking",
-    "Data Structures and Algorithms (Beginers)/Images",
-    "Data Structures and Algorithms (Beginers)/Example Problems",
-    "Data Structures and Algorithms (Beginers)/Data Structures",
-    "Data Structures and Algorithms (Beginers)/Algorithms",
+    "Sudharsan/Data Structures and Algorithms (Beginers)/Data Structures/3. Trees/5.  Breadth First Search.md",
+    "Sudharsan/Data Structures and Algorithms (Beginers)/Data Structures/3. Trees/4.  Depth First Search (DFS).md",
+    "Sudharsan/Data Structures and Algorithms (Beginers)/Data Structures/3. Trees/3. Binary Search Tree - Remove.md",
+    "Sudharsan/Data Structures and Algorithms (Beginers)/Data Structures/3. Trees/2. Binary Search Tree - Insert.md",
+    "Sudharsan/Data Structures and Algorithms (Beginers)/Data Structures/3. Trees/1. Binary Trees and Binary Search Trees.md",
+    "Sudharsan/Data Structures and Algorithms (Beginers)/Data Structures/2. Linked Lists/1. Singly Linked Lists.md",
+    "Sudharsan/Data Structures and Algorithms (Beginers)/Data Structures/2. Linked Lists/2. Doubly Linked Lists.md",
+    "Sudharsan/Data Structures and Algorithms (Beginers)/Data Structures/2. Linked Lists/3. Queues.md",
+    "Sudharsan/Data Structures and Algorithms (Beginers)/Data Structures/1. Arrays/3. Stacks.md",
+    "Sudharsan/Data Structures and Algorithms (Beginers)/Data Structures/1. Arrays/2. Dynamic Arrays.md",
+    "Sudharsan/Data Structures and Algorithms (Beginers)/Data Structures/1. Arrays/1. Static Arrays.md",
+    "Sudharsan/Data Structures and Algorithms (Beginers)/Algorithms/Sorting/Quick Sort.md",
+    "Sudharsan/Data Structures and Algorithms (Beginers)/Algorithms/Sorting/Merge Sort.md",
+    "Sudharsan/Data Structures and Algorithms (Beginers)/Algorithms/Sorting/Insertion Sort.md",
+    "Sudharsan/Data Structures and Algorithms (Beginers)/Algorithms/Recursion/Two Branch Recursion.md",
+    "Sudharsan/Data Structures and Algorithms (Beginers)/Algorithms/Recursion/One Branch Recursion.md",
+    "Sudharsan/Data Structures and Algorithms (Beginers)/Algorithms/Backtracking/Backtracking.md",
+    "Sudharsan/Data Structures and Algorithms (Beginers)/Images/Screenshot 2024-07-07 at 4.41.35 PM.png",
+    "Sudharsan/Data Structures and Algorithms (Beginers)/Images/Screenshot 2024-06-15 at 2.30.40 PM.png",
+    "Sudharsan/Data Structures and Algorithms (Beginers)/Images/Screenshot 2024-06-14 at 3.05.21 PM.png",
+    "Sudharsan/Data Structures and Algorithms (Beginers)/Images/Screenshot 2024-06-14 at 3.05.21 PM 1.png",
+    "Sudharsan/Data Structures and Algorithms (Beginers)/Images/Pasted image 20240720083618.png",
+    "Sudharsan/Data Structures and Algorithms (Beginers)/Images/Pasted image 20240720082417.png",
+    "Sudharsan/Data Structures and Algorithms (Beginers)/Images/Pasted image 20240708160128.png",
+    "Sudharsan/Data Structures and Algorithms (Beginers)/Images/Pasted image 20240708130606.png",
+    "Sudharsan/Data Structures and Algorithms (Beginers)/Images/Pasted image 20240708125738.png",
+    "Sudharsan/Data Structures and Algorithms (Beginers)/Images/Pasted image 20240708122936.png",
+    "Sudharsan/Data Structures and Algorithms (Beginers)/Example Problems/Binary Search Tree (Python).md",
+    "Sudharsan/Data Structures and Algorithms (Beginers)/Example Problems/Factorial (Python).md",
+    "Sudharsan/Data Structures and Algorithms (Beginers)/Example Problems/Static arrays (Python).md",
+    "Sudharsan/Data Structures and Algorithms (Beginers)/Example Problems/Stacks (Python).md",
+    "Sudharsan/Data Structures and Algorithms (Beginers)/Example Problems/Singly Linked Lists (Python).md",
+    "Sudharsan/Data Structures and Algorithms (Beginers)/Example Problems/QuickSort (Python).md",
+    "Sudharsan/Data Structures and Algorithms (Beginers)/Example Problems/Queues (python).md",
+    "Sudharsan/Data Structures and Algorithms (Beginers)/Data Structures/3. Trees",
+    "Sudharsan/Data Structures and Algorithms (Beginers)/Data Structures/2. Linked Lists",
+    "Sudharsan/Data Structures and Algorithms (Beginers)/Data Structures/1. Arrays",
+    "Sudharsan/Data Structures and Algorithms (Beginers)/Algorithms/Sorting",
+    "Sudharsan/Data Structures and Algorithms (Beginers)/Algorithms/Recursion",
+    "Sudharsan/Data Structures and Algorithms (Beginers)/Algorithms/Backtracking",
+    "Sudharsan/Data Structures and Algorithms (Beginers)/Images",
+    "Sudharsan/Data Structures and Algorithms (Beginers)/Example Problems",
+    "Sudharsan/Data Structures and Algorithms (Beginers)/Data Structures",
     "Untitled.canvas"
   ]
 }
